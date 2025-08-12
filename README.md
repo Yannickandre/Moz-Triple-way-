@@ -1,4 +1,4 @@
-# Moz-Triple-way-
+# Moz Triple way
 Você está procurando internet grátis e rápida em Moçambique? Se sim, conheça o Moz Triple way: Canal de internet grátis pra Moçambique. Aqui você encontra arquivos pra http custom, http injector, etc. Link do canal  [Moz Triple way](https://t.me/moztripleway)
 
 No meu canal do telegram, você encontra arquivos da Vodacom e Tmcel. nunca mais precisas pagar megas ou sofrer burlas de VPN, aqui nós temos arquivos grátis. E se gostares dos arquivos grátis, podes comprar um arquivo privado, criado especialmente pra ti e que só tu terás acesso 
