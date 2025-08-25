@@ -84,10 +84,34 @@
 
     /* Rodapé */
     footer {
-      background: #2c3eu50;
+      background: #2c3e50;
       color: white;
       padding: 20px;
       text-align: center;
+    }
+
+    /* 🔹 Imagem de fundo da Home */
+    #home {
+      background-image: url('InShot_20250825_214045836.jpg'); /* Sua imagem */
+      background-size: cover; /* cobre toda a seção */
+      background-position: center; /* centraliza */
+      background-repeat: no-repeat; /* sem repetição */
+      color: white; /* deixa o texto branco para contraste */
+      position: relative;
+    }
+
+    /* Sobreposição para destacar o texto */
+    #home::before {
+      content: "";
+      position: absolute;
+      top: 0; left: 0; right: 0; bottom: 0;
+      background: rgba(0,0,0,0.4); /* escurece levemente a imagem */
+      z-index: 1;
+    }
+
+    #home h2, #home p {
+      position: relative;
+      z-index: 2; /* coloca o texto acima da sobreposição */
     }
   </style>
 </head>
@@ -106,7 +130,7 @@
 
   <!-- Seção Home -->
   <section id="home">
-    <h2>Seja bem vindo à minha página </h2>
+    <h2>Seja bem vindo à minha página</h2>
     <p>Esta é uma página criada pra ajudar VCS a se contactarem comigo. Só clicarem nos links abaixo.</p>
   </section>
 
